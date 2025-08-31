@@ -6,6 +6,13 @@ dist/
 wheels/
 *.egg-info
 
+# Vscode generated
+.vscode
+
+# Environment variables
+.env
+
 # Virtual environments
 .venv
 venv
+
